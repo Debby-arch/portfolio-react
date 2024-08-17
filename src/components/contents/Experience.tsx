@@ -11,11 +11,11 @@ const Experience = () => {
                     </span>
                     {" "}•{" "}
                     <span className="text-neutral-200">
-                        June 2024 - Present
+                        May 2024 - Present
                     </span>
                 </TimeLineItem.Title>
                 <TimeLineItem.Description>
-                    Working as a frontend developer at Polymath AI, contributing to innovative solutions in the AI space.
+                    Working as an Advanced Excel Instructor at Blue Nile Analytica.
                 </TimeLineItem.Description>
             </TimeLineItem>
 
