@@ -22,21 +22,6 @@ const Experience = () => {
             <TimeLineItem last>
                 <TimeLineItem.Title>
                     <span className="font-medium transition-all hover:text-white hover:underline hover:underline-offset-2">
-                        Backend Developer (Freelance) at Saman Technosys
-                    </span>
-                    {" "}•{" "}
-                    <span className="text-neutral-200">
-                        Oct 2023 - Nov 2023
-                    </span>
-                </TimeLineItem.Title>
-                <TimeLineItem.Description>
-                    Developed scripts with Node.js to get scrap data of profiles and store in excel.
-                </TimeLineItem.Description>
-            </TimeLineItem>
-
-            <TimeLineItem last>
-                <TimeLineItem.Title>
-                    <span className="font-medium transition-all hover:text-white hover:underline hover:underline-offset-2">
                     Management Trainee(Attachment) at Blue Nile Analytica
                     </span>
                     {" "}•{" "}
